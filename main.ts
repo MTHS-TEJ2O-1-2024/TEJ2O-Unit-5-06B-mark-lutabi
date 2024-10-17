@@ -1,11 +1,12 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mark lutabi
+ * Created by: Mark Lutabi
  * Created on: Oct 2024
  * This program measures the distance from an object
 */
 
 let distanceToObject:number = 0
+
 //setup
 basic.showIcon(IconNames.Happy)
 
